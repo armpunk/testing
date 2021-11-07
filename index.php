@@ -1,1 +1,1 @@
-<?= 'tambah file' />
+<?= 'tambah file' ?>
